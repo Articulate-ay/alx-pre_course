@@ -1,1 +1,1 @@
-my second commit
+This is the area that tells you about my project
